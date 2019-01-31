@@ -1,0 +1,11 @@
+#ZCB-R{
+	width:500px;
+	height:350px;
+	margin: 100px auto;
+}
+input{
+	outline-style:none;
+}
+#ZCB-R p{
+	display: none;
+}
